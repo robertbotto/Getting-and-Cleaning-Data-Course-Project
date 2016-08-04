@@ -1,23 +1,23 @@
 ### Instructions
 
-Run the script `run_analysis.R` with the with the data from Samsung in your working directory.  Do not rename the data directory.
+Run the script `run_analysis.R` with the data from Samsung unzipped in your working directory.  Do not rename the data directory.
 
 ### Codebook
 
 1. Subject - subject ID (1-30)
 1. Activity - activity category (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING)
-1. TimeBodyAccMeanX
-1. TimeBodyAccMeanY
-1. TimeBodyAccMeanZ
-1. TimeBodyAccStdX
-1. TimeBodyAccStdY
-1. TimeBodyAccStdZ
-1. TimeGravityAccMeanX
-1. TimeGravityAccMeanY
-1. TimeGravityAccMeanZ
-1. TimeGravityAccStdX
-1. TimeGravityAccStdY
-1. TimeGravityAccStdZ
+1. TimeBodyAccMeanX - Mean device acceleration time, x-axis
+1. TimeBodyAccMeanY - Mean device acceleration time, y-axis
+1. TimeBodyAccMeanZ - Mean device acceleration time, z-axis
+1. TimeBodyAccStdX - Standard deviation device acceleration time, x-axis
+1. TimeBodyAccStdY - Standard deviation device acceleration time, y-axis
+1. TimeBodyAccStdZ - Standard deviation device acceleration time, z-axis
+1. TimeGravityAccMeanX - Mean acceleration due to gravity time, x-axis
+1. TimeGravityAccMeanY - Mean acceleration due to gravity time, y-axis
+1. TimeGravityAccMeanZ - Mean acceleration due to gravity time, z-axis
+1. TimeGravityAccStdX - Standard deviation acceleration due to gravity time, x-axis
+1. TimeGravityAccStdY- Standard deviation acceleration due to gravity time, y-axis
+1. TimeGravityAccStdZ- Standard deviation acceleration due to gravity time, z-axis
 1. TimeBodyAccJerkMeanX
 1. TimeBodyAccJerkMeanY
 1. TimeBodyAccJerkMeanZ
