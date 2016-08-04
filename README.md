@@ -1,0 +1,74 @@
+### Instructions
+
+Run the script `run_analysis.R` with the with the data from Samsung in your working directory.  Do not rename the data directory.
+
+### Codebook
+
+1. Subject - subject ID (1-30)
+1. Activity - activity category (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING)
+1. TimeBodyAccMeanX
+1. TimeBodyAccMeanY
+1. TimeBodyAccMeanZ
+1. TimeBodyAccStdX
+1. TimeBodyAccStdY
+1. TimeBodyAccStdZ
+1. TimeGravityAccMeanX
+1. TimeGravityAccMeanY
+1. TimeGravityAccMeanZ
+1. TimeGravityAccStdX
+1. TimeGravityAccStdY
+1. TimeGravityAccStdZ
+1. TimeBodyAccJerkMeanX
+1. TimeBodyAccJerkMeanY
+1. TimeBodyAccJerkMeanZ
+1. TimeBodyAccJerkStdX
+1. TimeBodyAccJerkStdY
+1. TimeBodyAccJerkStdZ
+1. TimeBodyGyroMeanX
+1. TimeBodyGyroMeanY
+1. TimeBodyGyroMeanZ
+1. TimeBodyGyroStdX
+1. TimeBodyGyroStdY
+1. TimeBodyGyroStdZ
+1. TimeBodyGyroJerkMeanX
+1. TimeBodyGyroJerkMeanY
+1. TimeBodyGyroJerkMeanZ
+1. TimeBodyGyroJerkStdX
+1. TimeBodyGyroJerkStdY
+1. TimeBodyGyroJerkStdZ
+1. TimeBodyAccMagMean
+1. TimeBodyAccMagStd
+1. TimeGravityAccMagMean
+1. TimeGravityAccMagStd
+1. TimeBodyAccJerkMagMean
+1. TimeBodyAccJerkMagStd
+1. TimeBodyGyroMagMean
+1. TimeBodyGyroMagStd
+1. TimeBodyGyroJerkMagMean
+1. TimeBodyGyroJerkMagStd
+1. FreqBodyAccMeanX
+1. FreqBodyAccMeanY
+1. FreqBodyAccMeanZ
+1. FreqBodyAccStdX
+1. FreqBodyAccStdY
+1. FreqBodyAccStdZ
+1. FreqBodyAccJerkMeanX
+1. FreqBodyAccJerkMeanY
+1. FreqBodyAccJerkMeanZ
+1. FreqBodyAccJerkStdX
+1. FreqBodyAccJerkStdY
+1. FreqBodyAccJerkStdZ
+1. FreqBodyGyroMeanX
+1. FreqBodyGyroMeanY
+1. FreqBodyGyroMeanZ
+1. FreqBodyGyroStdX
+1. FreqBodyGyroStdY
+1. FreqBodyGyroStdZ
+1. FreqBodyAccMagMean
+1. FreqBodyAccMagStd
+1. FreqBodyAccJerkMagMean
+1. FreqBodyAccJerkMagStd
+1. FreqBodyGyroMagMean
+1. FreqBodyGyroMagStd
+1. FreqBodyGyroJerkMagMean
+1. FreqBodyGyroJerkMagStd
